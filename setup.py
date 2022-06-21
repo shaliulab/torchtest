@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-PKG_NAME = "torchtest"
+PKG_NAME = "torchtest_shaliulab"
 version = "0.0.1"
 
 with open(f"{PKG_NAME}/__init__.py", "w") as fh:
